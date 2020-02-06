@@ -1,4 +1,9 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Second linde to push into change_alice new branch.
 Third line to test complex merging!
 TEst change after patrick!
+=======
+
+Some text to test updating working directory.
+>>>>>>> 071a08ce8c4dcf71c50050b68aabd4430233a6e3
