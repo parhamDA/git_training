@@ -5,5 +5,4 @@ Third line to test complex merging!
 TEst change after patrick!
 =======
 
-Some text to test updating working directory.
->>>>>>> 071a08ce8c4dcf71c50050b68aabd4430233a6e3
+after fixed conflic
